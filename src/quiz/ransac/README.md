@@ -29,12 +29,11 @@ RANSAC stands for Random Sample Consensus, and is a method for detecting outlier
 
 ### Results:
 * The outliers are the red points and they represent obstacles in 3D data.
-- 3D:
-  <img src="images/planeSegmentation2.png" alt="drawing" width="600" height="400"/>
+  * 3D:
 
-  <img src="images/planeSegmentation.png" alt="drawing" width="600" height="400"/>
+    <img src="images/planeSegmentation2.png" alt="drawing" width="600" height="400"/>
 
+    <img src="images/planeSegmentation.png" alt="drawing" width="600" height="400"/>
+  * 2D:
 
-- 2D:
-
-  <img src="images/lineSegmentation.png" alt="drawing" width="600" height="400"/>
+      <img src="images/lineSegmentation.png" alt="drawing" width="600" height="400"/>
