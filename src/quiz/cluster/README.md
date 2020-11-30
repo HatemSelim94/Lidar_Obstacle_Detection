@@ -20,6 +20,6 @@
 * Uses the euclidean distance between the target point and the neighboring candidates as the check condition.
 
 #### Result:
-* As shown in the following image, the 2d-tree with the space splited by each point and there are three clusters found and lapeled in red, blue, and white. 
+* As shown in the following image, the 2d-tree with the space splited by each point and there are three clusters found and lapeled in red, green, and white. 
 
  <img src="images/clustering2D.png" alt="drawing" width="600" height="400"/>
