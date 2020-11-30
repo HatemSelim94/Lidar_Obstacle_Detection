@@ -13,11 +13,13 @@
   * It can be summarized to three steps:
   pick, split, repeat.
 
-  ###### Searching:
-    * Searching for nearby points using a point (p) is done by traversing the tree with the same procedure as explained above, narrowing down the possible candidates with the cluster threshold.    
+###### Searching:
+  * Searching for nearby points using a point (p) is done by traversing the tree with the same procedure as explained above, narrowing down the possible candidates with the cluster threshold.    
 
 #### Euclidean Clustering:
 * Uses the euclidean distance between the target point and the neighboring candidates as the check condition.
 
 #### Result:
+* As shown in the following image, the 2d-tree with the space splited by each point and there are three clusters found and lapeled in red, blue, and white. 
+
  <img src="images/clustering2D.png" alt="drawing" width="600" height="400"/>
