@@ -42,8 +42,9 @@ pick, divide, repeat.
       Iterate through each nearby point
         If point has not been processed
          Proximity(point,cluster)
-      ```
-    ```
+  ```
+      
+  ```
     EuclideanCluster():
       list of clusters
       Iterate through each point
@@ -52,7 +53,7 @@ pick, divide, repeat.
               Proximity(point, cluster)
               cluster add clusters
       return clusters
-    ```
+  ```
 
 #### Hyperparameters:
   1. Distance threshold.
@@ -60,6 +61,6 @@ pick, divide, repeat.
   3. Minimum number of points to form a cluster.
 
 #### Result:
-As shown in the following image, the 2d-tree with the space splited by each point and there are three clusters found and labeled in red, green, and white.
+* As shown in the following image, the 2d-tree with the space splited by each point and there are three clusters found and labeled in red, green, and white.
 
- <img src="images/clustering2D.png" alt="drawing" width="600" height="400"/>
+  <img src="images/clustering2D.png" alt="drawing" width="600" height="400"/>
