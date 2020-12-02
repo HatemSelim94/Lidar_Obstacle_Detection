@@ -69,7 +69,7 @@ The implementation for 3D data can be found [here](https://github.com/HatemSelim
 * Place bounding boxes around the individual clusters
 
 
-### Custom implementation Performance
+### Custom implementation performance
 * The average processing time of a point cloud with 120000 data points is 70 ms.
 
   <img src="media/Performance.png" width="500" height="700" />
