@@ -11,7 +11,7 @@
 
 * Output:
 
- <img src="media/ObstacleDetection1.gif" width="700" height="400" />
+ 	<img src="media/ObstacleDetection1.gif" width="700" height="400" />
 
 
 
@@ -40,7 +40,8 @@ The implementation for 3D data can be found [here](https://github.com/HatemSelim
 
     <img src="src/quiz/ransac/images/lineSegmentation.png" width="300" height="300" />
   * 3D
-   <img src="src/quiz/ransac/images/planeSegmentation2.png" width="300" height="300" />
+  	
+    <img src="src/quiz/ransac/images/planeSegmentation2.png" width="300" height="300" />
 
 * Hyperparameters:
   * Distance tolerance.
@@ -58,7 +59,8 @@ The implementation for 3D data can be found [here](https://github.com/HatemSelim
 * Clustering pseudocode and results can be found [here](https://github.com/HatemSelim94/Lidar_Obstacle_Detection/tree/master/src/quiz/cluster).
 
 * Clustering with 2d tree visualization:
-  <img src="src/quiz/cluster/images/clustering2D.png" width="300" height="300" />
+  
+  	<img src="src/quiz/cluster/images/clustering2D.png" width="300" height="300" />
 * Hyperparameters:
   * Distance threshold.
   * Min. & Max. number of points to form a cluster.
