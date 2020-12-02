@@ -5,6 +5,7 @@
 * In this project, real lidar point cloud data stream is processed in order to detect obstacles as shown in the following GIFs.
 
 * Scene:
+
   <img src="media/pcdstream.gif" width="700" height="400" />
 
 
